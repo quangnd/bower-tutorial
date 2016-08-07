@@ -1,0 +1,6 @@
+{
+  "name": "bower-tutorial-test",
+  "devDependencies": {
+    "jasmine-core": "jasmine#^2.4.1"
+  }
+}
